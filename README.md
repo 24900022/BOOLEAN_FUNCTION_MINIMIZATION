@@ -42,7 +42,7 @@ RegisterNumber:24900022
 
 **RTL realization**
 
-module funct1(a,b,c,d,f1);
+module digital2(a,b,c,d,f1);
 
 input a,b,c,d;
 
@@ -54,7 +54,7 @@ endmodule
 
 ii)
 
-module funct2(w,x,y,z,f2);
+module digital22(w,x,y,z,f2);
 
 input w,x,y,z;
 
